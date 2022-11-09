@@ -2,9 +2,9 @@
   
 </p>
 
-Telegram Bot to store Posts and Documents and it can Access by Special Links.
-I Guess This Will Be Usefull For Many People.....😇. 
 
+Telegram Bot untuk menyimpan Posting dan Dokumen dan dapat Diakses melalui Tautan Khusus.
+Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang. 💫
 
 ### Features
 - Fully customisable.
