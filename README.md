@@ -14,8 +14,8 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang. 💫
 
 ### Setup
 
-- Add the bot to Database Channel with all permission
-- Add bot to ForceSub channel as Admin with Invite Users via Link Permission if you enabled ForceSub 
+- Tambahkan bot ke Saluran Basis Data dengan semua izin
+- Tambahkan bot ke saluran ForceSub sebagai Admin dengan Undang Pengguna melalui Izin Tautan jika Anda mengaktifkan ForceSub 
 
 ##
 #### Deploy on Heroku
