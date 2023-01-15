@@ -21,9 +21,6 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang. 💫
 #### Deploy on Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xyzsky01/File-Sharing-Bot)</br>
 
-#### Deploy on Railway
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/1jKLr4)
-
 
 ### Admin Commands
 
